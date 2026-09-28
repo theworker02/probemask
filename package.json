@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/probemask",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Probe host/mask network string helpers for config audits.",
+  "bin": {
+    "probemask": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/probemask.git"
+  },
+  "homepage": "https://theworker02.github.io/probemask/",
+  "keywords": [
+    "probe",
+    "mask",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
